@@ -53,7 +53,7 @@ body
     width: 100%;
 }
 
-.principal__categoria:nth-child(3)
+.edicao
 {
     grid-column: span 2;
 
@@ -70,7 +70,7 @@ body
     padding: 10px 0;
 }
 
-.principal__categoria:nth-child(3) .principal__categoria__titulo
+.edicao .principal__categoria__titulo
 {
     grid-column: span 2;
 }
