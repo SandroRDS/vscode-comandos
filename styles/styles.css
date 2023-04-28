@@ -78,6 +78,7 @@ body
 .principal__categoria__tabela
 {
     width: 100%;
+    box-shadow: 3px 3px 5px #00000063;
 }
 
 tr:nth-child(odd) td
